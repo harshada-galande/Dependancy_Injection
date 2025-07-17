@@ -1,0 +1,10 @@
+## Ignore Visual Studio temporary files, build results, and personal settings ##
+.vs/
+*.user
+*.suo
+
+## Ignore Rider IDE ##
+.idea/
+
+## Ignore ReSharper ##
+*.DotSettings.user

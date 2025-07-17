@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dependancy_Injection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+939741646215688cc7a81b45be4acb3aa37e7a7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f190b55ccfd85603ac1d9afef8e24442d5fa780")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dependancy_Injection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dependancy_Injection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
